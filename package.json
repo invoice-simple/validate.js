@@ -40,5 +40,8 @@
     "grunt-template-jasmine-istanbul": "0.4.0",
     "coveralls": "2.11.9"
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "license": "MIT"
 }
