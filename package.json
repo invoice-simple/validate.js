@@ -1,5 +1,5 @@
 {
-  "name": "validate.js",
+  "name": "@invoice-simple/validate.js",
   "version": "0.13.1",
   "author": "Nicklas Ansman <nicklas@ansman.se>",
   "description": "Declarative validations for JavaScript",
